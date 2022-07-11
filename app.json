@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "code-nam",
+    "slug": "code-nam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.todolist.codenam"
+    }
+  },
+  "name": "code-nam"
+}
